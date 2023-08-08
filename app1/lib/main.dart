@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text('flutter page'),
+        title: const Text('selame'),
       ),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
